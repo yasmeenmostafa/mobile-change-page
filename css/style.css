@@ -1,0 +1,16 @@
+.w-60{
+    width: 60%;
+}
+body{
+    background-color: black;
+}
+
+.icon{
+    transition-property: scale;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.icon:hover{
+    transform: scale(1.3);
+}
+
